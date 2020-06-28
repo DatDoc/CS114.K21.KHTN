@@ -10,3 +10,5 @@ Normalize sentiment words (Example: okie, okê, oke, okela -> ok) <br/>
 Normalize emojis to 2 types: positive and negative <br/>
 (Example: positive emojis: :), :v, :-], etc | negative emojis: :(, :-(, etc) <br/>
 Remove punctuations and noise characters
+# Code 
+Updating...
