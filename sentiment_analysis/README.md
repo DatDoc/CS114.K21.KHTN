@@ -4,7 +4,7 @@ foody-dataset contains over 30000 comments and ratings of each comment. <br/>
 Duplicate comments or spam comments have been removed by the author. <br/>
 # Preprocessing the dataset
 Convert the document to lowercase <br/>
-Remove duplicate letters in a word (Example: Món này ngon quassaaaaaa -> Món này ngon quá) <br/>
+Remove duplicate letters in a word (Example: Món này ngon quáaaaaaaa -> Món này ngon quá) <br/>
 Normalize the accent structure (Example: hoà -> hòa) <br/>
 Normalize sentiment words (Example: okie, okê, oke, okela -> ok) <br/>
 Normalize emojis to 2 types: positive and negative <br/>
