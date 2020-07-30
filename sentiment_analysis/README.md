@@ -13,3 +13,6 @@ Remove punctuations and noise characters
 # Code 
 https://colab.research.google.com/drive/1BqcF6hyMT2QmFW_sfN--56Xl9XygM1hC?usp=sharing
 Updating...
+# Presentation
+https://docs.google.com/presentation/d/1Nmu_4_63iepsEsVelxg6QwXLp7x8jQrYNwVd9DmHhUo/edit?usp=sharing 
+Updating
